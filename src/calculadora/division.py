@@ -13,7 +13,7 @@ class Division:
         Return:
             Retorna la division entre a y b
         """
-        if b==0:
+        if b == 0:
             raise ZeroDivisionError("Cannot divide by 0")
         else:
             return a / b
