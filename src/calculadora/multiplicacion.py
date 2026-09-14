@@ -1,4 +1,4 @@
-class Multiplicacion: 
+class Multiplicacion:
     def __init__(self):
         pass
 
@@ -9,9 +9,9 @@ class Multiplicacion:
         Args:
             a (int): Primer numero
             b (int): Segundo numero
-        
-        Return: 
+
+        Return:
             Retorna la multiplicacion entre a y b
         """
-        
+
         return a * b

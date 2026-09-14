@@ -1,4 +1,4 @@
-class Resta: 
+class Resta:
     def __init__(self):
         pass
 
@@ -9,9 +9,9 @@ class Resta:
         Args:
             a (int): Primer numero
             b (int): Segundo numero
-        
-        Return: 
+
+        Return:
             Retorna la resta entre a y b
         """
-        
+
         return a - b
