@@ -26,4 +26,4 @@ jobs:
         run: pip install Black
       
       - name: Black formating checkout
-        run: black src/  
+        run: black --check src/  
