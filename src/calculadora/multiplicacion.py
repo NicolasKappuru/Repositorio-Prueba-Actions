@@ -14,4 +14,4 @@ class Multiplicacion:
             Retorna la multiplicacion entre a y b
         """
         
-        return a*b
+        return a * b

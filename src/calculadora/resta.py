@@ -1,4 +1,4 @@
-class Suma: 
+class Resta: 
     def __init__(self):
         pass
 
@@ -14,4 +14,4 @@ class Suma:
             Retorna la resta entre a y b
         """
         
-        return a-b
+        return a - b

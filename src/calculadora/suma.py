@@ -14,4 +14,4 @@ class Suma:
             Retorna la suma entre a y b
         """
         
-        return a+b
+        return a + b
